@@ -2,7 +2,7 @@
 
 I'm frontend Angular Developer 👨‍💻
 
-I'm from Gomel, Belarus
+located in Gomel, Belarus
 
 ### My Stack
 
