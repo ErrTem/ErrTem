@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm Artem Zaitsev 😉
 
-I'm frontend Angular Developer 👨‍💻
+Frontend Angular Developer 👨‍💻 located in Gomel, Belarus
 
-located in Gomel, Belarus
-
-### My Stack
+### My Stack:
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -26,14 +24,14 @@ located in Gomel, Belarus
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### About Me
+### About Me:
 I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, and JavaScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
 
-### Currently Seeking Opportunities
+### Currently Seeking Opportunities:
 I am actively seeking new job opportunities in frontend development. If you are looking for a motivated and skilled Angular Developer to join your team, I'd love to hear from you!
 
-### Portfolio
+### Portfolio:
 Check out my pet project, [Codezilla](https://github.com/ErrTem/codezilla), a single-page frontend Online Shop web application built using Angular. It showcases my expertise in client-side rendering, frontend development, and unit testing.
 
-### Contact Me
+### Contact Me:
 Feel free to reach out to me at nitroxess@gmail.com to discuss potential job opportunities or collaborate on exciting projects. Let's create something awesome together! 
