@@ -25,3 +25,15 @@ located in Gomel, Belarus
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### About Me
+I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, and JavaScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
+
+### Currently Seeking Opportunities
+I am actively seeking new job opportunities in frontend development. If you are looking for a motivated and skilled Angular Developer to join your team, I'd love to hear from you!
+
+### Portfolio
+Check out my pet project, [Codezilla](https://github.com/ErrTem/codezilla), a single-page frontend Online Shop web application built using Angular. It showcases my expertise in client-side rendering, frontend development, and unit testing.
+
+### Contact Me
+Feel free to reach out to me at nitroxess@gmail.com to discuss potential job opportunities or collaborate on exciting projects. Let's create something awesome together! 
