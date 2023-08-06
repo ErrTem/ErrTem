@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Artem Zaitsev 😉
+### Hello there 👋 I'm Artem Zaitsev 😉
 
 Frontend Angular Developer 👨‍💻 located in Gomel, Belarus
 
