@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Artem Zaitsev 😉
 
-Frontend Angular Developer 👨‍💻 located in Gomel, Belarus
+Frontend Angular Developer 👨‍💻 located in Georgia
 
 ### My Stack:
 
