@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Artem Zaitsev 😉
 
-Frontend Angular Developer 👨‍💻 located in Georgia
+Frontend Angular Developer
 
 ### My Stack:
 
@@ -25,7 +25,7 @@ Frontend Angular Developer 👨‍💻 located in Georgia
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### About Me:
-I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, and JavaScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
+I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, JavaScript and TypeScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
 
 ### Currently Seeking Opportunities:
 I am actively seeking new job opportunities in frontend development. If you are looking for a motivated and skilled Angular Developer to join your team, I'd love to hear from you!
