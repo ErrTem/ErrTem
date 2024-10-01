@@ -27,9 +27,6 @@ Frontend Angular Developer
 ### About Me:
 I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, JavaScript and TypeScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
 
-// ### Currently Seeking Opportunities:
-// I am actively seeking new job opportunities in frontend development. If you are looking for a motivated and skilled Angular Developer to join your team, I'd love to hear from you!
-
 ### Portfolio:
 Check out my pet project, [Codezilla](https://github.com/ErrTem/codezilla), a single-page frontend Online Shop web application built using Angular. It showcases my expertise in client-side rendering, frontend development, and unit testing.
 
