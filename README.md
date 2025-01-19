@@ -25,10 +25,7 @@ Frontend Angular Developer
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### About Me:
-I'm passionate about frontend development, and I specialize in Angular. With a strong foundation in HTML, CSS, JavaScript and TypeScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
-
-### Portfolio:
-Check out my pet project, [Codezilla](https://github.com/ErrTem/codezilla), a single-page frontend Online Shop web application built using Angular. It showcases my expertise in client-side rendering, frontend development, and unit testing.
+I'm passionate about frontend development, specialize in Angular. With a strong foundation in HTML, CSS, JavaScript and TypeScript, I create dynamic and interactive user interfaces to deliver exceptional user experiences.
 
 ### Contact Me:
-Feel free to reach out to me at nitroxess@gmail.com to discuss potential job opportunities or collaborate on exciting projects. Let's create something awesome together! 
+Feel free to reach out to me at nitroxess@gmail.com to discuss potential job opportunities or collaborate on exciting projects.
